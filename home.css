@@ -83,7 +83,7 @@
 
   
   .hero {
-      background-image: url('\Sports Equipment\sports (6).png');
+      background-image: url('/Sports Equipment/sports (6).png');
     height: 100vh;
     position: relative;
     display: flex;
